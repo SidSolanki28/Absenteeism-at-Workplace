@@ -72,8 +72,8 @@ There is no missing values in data.
 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights :
 
-![](https://github.com/SidSolanki28/Absenteeism-at-Work/blob/master/Images/download%20(1).png)
-![](https://github.com/SidSolanki28/Absenteeism-at-Work/blob/master/Images/download%20(2).png)
+![](https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/download%20(1).png)
+![](https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/download%20(2).png)
 
 ---
 ## Model Building
