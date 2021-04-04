@@ -14,6 +14,13 @@
 - Inteprating its Odd Ratios and Coefficients
 - Integrating Model with SQL and Tableau
 
+![](https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/images.jpeg)
+
+---
+## Go Through Links
+
+[Github Link](https://github.com/SidSolanki28/Absenteeism-at-Work)
+
 ---
 ## About Project
 
