@@ -14,7 +14,7 @@
 - Inteprating its Odd Ratios and Coefficients
 - Integrating Model with SQL and Tableau
 
-![](https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/images.jpeg)
+<https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/images.jpeg>
 
 ---
 ## Go Through Links
@@ -79,8 +79,8 @@ There is no missing values in data.
 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights :
 
-![](https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/download%20(1).png)
-![](https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/download%20(2).png)
+<https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/download%20(1).png>
+<https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/download%20(2).png>
 
 ---
 ## Model Building
