@@ -1,44 +1,8 @@
-# [Project 1: Sentiment Analysis of Twitter](https://github.com/SidSolanki28/Sentiment-Analysis-of-Twitter)
+# Project 5: Absenteeism-at-Work
 
 ---
-# [Project 2: Predict Future Product Sales](https://github.com/SidSolanki28/Predict-Future-Product-Sales)
 
-<img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/0_1nv2atmRxYF8RhEw.png" width="700" height="250">
-
-- Objective : To predict future product sales
-- **Time Series Forecasting Model**
-- Data cleaning and Data preprocessing has been done to optimize features
-- Exploratory Data Analysis
-- **Facebook Prophet Time Series Forecasting** Tool is used.
-- Predict future weekly, monthly and yearly trends with and without holidays impact
-
----
-# [Project 3: Predict Sales by Advertising Ads](https://github.com/SidSolanki28/Predict-Sales-by-Advertising-Ads)
-
-<img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/display-ad-example.png" width="700" height="250">
-
-- Objective : To predict sales for given budget spend on TV, Radio and Newspaper in dollars.
-- **Regression Model**
-- Data cleaning and Data preprocessing
-- Exploratory Data Analysis
-- **Multiple Linear Regression Model** training and prediction
-- Statistical Analysis done from coefficients, p value, R² and Adj. R² value and F-statistic
-
----
-# [Project 4: Employee Attrition in Organisation](https://github.com/SidSolanki28/Employee-Attrition-in-Organisation)
-
-<img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/employee-attrition.jpg" width="400" height="250">
-
-- Objective : To predict Employee Attrition in an organisation 
-- **Classification Model**
-- Data cleaning and Data preprocessing has been done
-- Exploratory Data Analysis
-- Various classification models like **Logistic Regression**, **KNN**, **SVM**, **Kernel SVM**, **Naive Bayes**, **Decision Tree**, **Random Forest**, **ANN**, **XGBosst** and **CatBoost**  are used.
-- Model Performance Comparison
-- Conclusion: Top Reasons why employees are leaving an organisation
-
----
-# [Project 5: Absenteeism-at-Work](https://github.com/SidSolanki28/Absenteeism-at-Work)
+## Project Overview
 
 - Objective : 
   - **To Predict Absenteeism at Company during Worktime**
@@ -51,42 +15,114 @@
 - Integrating Model with SQL and Tableau
 
 ---
-# Project 6: Credit Card Customer Segmentation 
+## About Project
 
-#### [Github Link -> Intro & all files](https://github.com/SidSolanki28/Credit-Card-Customer-Segmentation)
+Machine Learning Classification model is developed to predict absenteeism at company during work time. This helps in improving decision making by reorganising work process to avoid lack of productivity and increase quality of work.
 
-#### [Notebook Link -> Part 1 - Pre-processing](https://nbviewer.jupyter.org/github/SidSolanki28/Credit-Card-Customer-Segmentation/blob/master/credit_card_pre_processing.ipynb)
+Integrated Python, SQL, and Tableau which are three of the most widely used tools in the world of data science. Python is the leading programming language; SQL is the most widely used means for communication with database systems; Tableau is the preferred solution for data visualization;
 
-#### [Notebook Link -> Part 2 - Model Building](https://nbviewer.jupyter.org/github/SidSolanki28/Credit-Card-Customer-Segmentation/blob/master/credit_card_model_builiding.ipynb)
-
-#### [Notebook Link -> Part 3 - AutoEncoder Model Building](https://nbviewer.jupyter.org/github/SidSolanki28/Credit-Card-Customer-Segmentation/blob/master/credit_card_autoencoder_model_builiding.ipynb)
-
-<img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/credit1.png" width="400" height="250">
-
-- Objective : **To do Customer Segmentation on Credit Card Data** 
-- Clustering Model
-- Data cleaning and Data preprocessing
-- Exploratory Data Analysis
-- **K-means Clustering**
-- **PCA** used for Model Visualization
-- **Autoencoders Model** used for Dimensionality Reduction to improve Cluster Analysis
+To put it simply – SQL helps us store and manipulate the data we are working with, Python allows us to write code and perform calculations, and then Tableau enables beautiful data visualization. A well-thought-out integration stepping on these three pillars could save a business millions of dollars annually in terms of reporting personnel.
 
 ---
-# Project 7: Urban Sound Audio Classification
+## Code and Resources used
 
-<img src="https://github.com/SidSolanki28/Sid_Portfolio/raw/master/images/sound-effects-packs.jpg">
+- Python version: 3.7.6
+- Packages: Pandas, Numpy, Seaborn, Matplotlib, Scikit, Pymysql
+- Resources used:
 
-#### [Kaggle Link -> Urban Sound Audio Classification Part 1 -  Intro & EDA](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-1)
+* Udemy : https://udemy.com/course/python-sql-tableau-integrating-python-sql-and-tableau
+* Machine Learning Mastery : https://machinelearningmastery.com/logistic-regression-for-machine-learning/
 
-#### [Kaggle Link -> Urban Sound Audio Classification Part 2 - Feature Engineering](https://www.kaggle.com/sidsolanki/urban-sound-audio-classification-part-2)
+---
+## Web Scraping
 
-#### [Kaggle Link -> Urban Sound Audio Classification Part 3 - Model Training & Testing](https://www.kaggle.com/sidsolanki/audio-classification-part-3)
+Dataset URL: https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work
 
-- Objective : 
-  - **To classifiy UrbanSound**
-  - used **Librosa** library for music and audio analysis
-- Classification Problem
-- Data cleaning
-- Exploratory Data Analysis
-- Data Preprocessing : Feature Extraction using MFCC
-- **Artificial Neural Network (ANN)** Training and Prediction
+Attribute Information:
+
+1. Individual identification (ID)
+2. Reason for absence (ICD).
+3. Month of absence
+4. Day of the week (Monday (2), Tuesday (3), Wednesday (4), Thursday (5), Friday (6))
+5. Seasons
+6. Transportation expense
+7. Distance from Residence to Work (kilometers)
+8. Service time
+9. Age
+10. Work load Average/day 
+11. Hit target
+12. Disciplinary failure (yes=1; no=0)
+13. Education (high school (1), graduate (2), postgraduate (3), master and doctor (4))
+14. Son (number of children)
+15. Social drinker (yes=1; no=0)
+16. Social smoker (yes=1; no=0)
+17. Pet (number of pet)
+18. Weight
+19. Height
+20. Body mass index
+21. Absenteeism time in hours (target)
+
+---
+## Data Cleaning
+
+There is no missing values in data.
+
+---
+## EDA
+
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights :
+
+![](https://github.com/SidSolanki28/Absenteeism-at-Work/blob/master/Images/download%20(1).png)
+![](https://github.com/SidSolanki28/Absenteeism-at-Work/blob/master/Images/download%20(2).png)
+
+---
+## Model Building
+
+### Logistic Linear Regression
+
+Logistic regression is named for the function used at the core of the method, the logistic function.
+Below is an example logistic regression equation:
+
+y = e^(b0 + b1*x) / (1 + e^(b0 + b1*x))
+
+Where y is the predicted output, b0 is the bias or intercept term and b1 is the coefficient for the single input value (x). Each column in your input data has an associated b coefficient (a constant real value) that must be learned from your training data.
+
+The logistic function, also called the sigmoid function
+
+---
+## Model Prediction
+
+| Features| Coefficients | Odds Ratio 
+| ----------- | ----------- | --------- |
+| Reason C | 1.716629 | 5.565735 |
+| Reason A | 1.559403 | 4.755983 |
+| Transportation expense	| 0.701718	| 2.017215 |
+|	Social drinker | 0.588378	| 1.801065 |
+|	Weight	| 0.586728 | 1.798096 | 
+
+---
+## Model Performance
+
+| Label | precision | recall |  f1-score 
+| ----------- | ----------- | --------- | ------- |
+| 0 | 0.81 | 0.77 | 0.79 |
+| 1 | 0.69 | 0.74 | 0.72 |
+| accuracy |  |   | 0.76 |    
+
+## Conclusion
+
+After analyzing its Odd Ratios and Coefficients, we predict
+
+- Reason A and C has most weightage
+
+Therefore, reasons like poisoning, injuries and various diseases are most common reasons for absenteeism.
+
+- Also, Transport is also an issue for an employee to get absent for hours.
+
+- Also, Disciplinary failure has highly negative coefficient means if there is no discipine penalty, there is more chance that employee become present in working hours.
+
+---
+
+## Further Improvements
+
+Working on SQL and Tableau Integration
