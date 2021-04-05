@@ -15,7 +15,7 @@
 - Integrating Model with SQL and Tableau
 
 
-<img src="https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/images.jpeg" width="400" height="250">
+<img src="https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/images.jpeg">
 
 
 ---
@@ -82,9 +82,9 @@ There is no missing values in data.
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights :
 
 
-<img src="https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/download%20(1).png" width="400" height="250">
+<img src="https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/download%20(1).png">
 
-<img src="https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/download%20(2).png" width="400" height="250">
+<img src="https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/download%20(2).png">
 
 
 ---
