@@ -4,6 +4,9 @@
 
 ## Project Overview
 
+<img src="https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/images.jpeg">
+
+
 - Objective : 
   - **To Predict Absenteeism at Company during Worktime**
   - to integrate **Python, SQL, and Tableau**
@@ -13,10 +16,6 @@
 - **Logistic Regression Model** Training and Prediction
 - Inteprating its Odd Ratios and Coefficients
 - Integrating Model with SQL and Tableau
-
-
-<img src="https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/images.jpeg">
-
 
 ---
 ## Go Through Links
