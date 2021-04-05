@@ -2,9 +2,7 @@
 
 ---
 
-## Project Overview
-
-<img src="https://github.com/SidSolanki28/Absenteeism-at-Workplace/blob/master/images/images.jpeg">
+<img src="https://github.com/SidSolanki28/Absenteeism-at-Workplace/raw/master/images/images.jpeg">
 
 
 - Objective : 
