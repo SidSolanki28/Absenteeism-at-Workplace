@@ -20,4 +20,6 @@
 
 [Report](https://sidsolanki28.github.io/Absenteeism-at-Work)
 
+[Notebook]
+
 [Github Link](https://github.com/SidSolanki28/Absenteeism-at-Work)
