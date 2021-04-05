@@ -20,6 +20,10 @@
 
 [Report](https://sidsolanki28.github.io/Absenteeism-at-Work)
 
-[Notebook]
+[Notebook File - Part 1: Data Pre-processing](https://github.com/SidSolanki28/Absenteeism-at-Work/blob/master/data_pre_processing.ipynb)
+
+[Notebook File - Part 2: Model Building](https://nbviewer.jupyter.org/github/SidSolanki28/Absenteeism-at-Work/blob/master/model_building.ipynb)
+
+[Notebook File - Part 3: Simplified Model Building](https://github.com/SidSolanki28/Absenteeism-at-Work/blob/master/simplified_model_building.ipynb)
 
 [Github Link](https://github.com/SidSolanki28/Absenteeism-at-Work)
