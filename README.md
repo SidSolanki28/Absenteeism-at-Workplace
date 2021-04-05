@@ -18,6 +18,6 @@
 ---
 ## Go Through Links
 
-[Report](https://github.com/SidSolanki28/Absenteeism-at-Work)
+[Report](https://sidsolanki28.github.io/Absenteeism-at-Work)
 
 [Github Link](https://github.com/SidSolanki28/Absenteeism-at-Work)
