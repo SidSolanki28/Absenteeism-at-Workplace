@@ -20,6 +20,6 @@
 ---
 ## Go Through Links
 
-[Read Article](https://github.com/SidSolanki28/Absenteeism-at-Work)
+[Report](https://github.com/SidSolanki28/Absenteeism-at-Work)
 
 [Github Link](https://github.com/SidSolanki28/Absenteeism-at-Work)
